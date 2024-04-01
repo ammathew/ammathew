@@ -3,8 +3,18 @@
 
 ## 🔭 I’m currently working on ...
 
-- teacherbot.me
-- ioracle.io
+### teacherbot.me
+unlock your inner genius with custom teacherbots.
+
+available at teacherbot.me
+
+info: https://ammathew.substack.com/p/initial-release-of-teacherbotme
+
+### ioracle.io
+
+chat your google calendar.
+
+available at ioracle.io
 
 ## 🌱 I’m currently learning ...
 
