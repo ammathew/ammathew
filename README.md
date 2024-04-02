@@ -16,9 +16,9 @@ chat your google calendar.
 
 available at ioracle.io
 
-## 🌱 I’m currently learning ...
+## 🌱 Main Interests
 
-Developing knowledge about RAG, LLM fine tuning, and prompt engineering. Developing production-ready AI applications! 
+RAG, LLM fine tuning, and prompt engineering. Developing production-ready AI applications! 
   
 
 
