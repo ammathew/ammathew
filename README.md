@@ -18,7 +18,7 @@ available at ioracle.io
 
 ## 🌱 Main Interests
 
-RAG, LLM fine tuning, and prompt engineering. Developing production-ready AI applications! 
+Full-Stack development. Also RAG, LLM fine tuning, and prompt engineering.
   
 
 
