@@ -8,7 +8,7 @@ Prepare for coding interviews efficiently and thoroughly.
 
 marketing site at learnleetcode.com
 
-Beta-testing by end of April 2022
+Currently in beta testing.
 
 ## Past Projects
 ### teacherbot.me
