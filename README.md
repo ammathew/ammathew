@@ -10,10 +10,10 @@ marketing site at learnleetcode.com
 
 Beta-testing by end of April 2022
 
+## Past Projects
 ### teacherbot.me
 unlock your inner genius with custom teacherbots.
 
-available at teacherbot.me
 
 info: https://ammathew.substack.com/p/initial-release-of-teacherbotme
 
@@ -21,7 +21,6 @@ info: https://ammathew.substack.com/p/initial-release-of-teacherbotme
 
 chat your google calendar.
 
-available at ioracle.io
 
 ## 🌱 Main Interests
 
