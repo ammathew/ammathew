@@ -8,12 +8,9 @@ Prepare for coding interviews efficiently and thoroughly.
 
 marketing site at learnleetcode.com
 
-Currently in beta testing.
 
 ## Past Projects
 ### teacherbot.me
-unlock your inner genius with custom teacherbots.
-
 
 info: https://ammathew.substack.com/p/initial-release-of-teacherbotme
 
